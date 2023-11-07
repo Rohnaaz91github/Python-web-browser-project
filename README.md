@@ -1,1 +1,1 @@
-# Industrial_Project
+Python web browser project
